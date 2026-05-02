@@ -18,3 +18,6 @@ if __name__ == '__main__':
 print("Lakshya")
 
 print("kalol")
+
+def func(ok):
+    pass
